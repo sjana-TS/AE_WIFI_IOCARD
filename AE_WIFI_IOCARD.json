@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Board": "NodeMCU_32S",
-      "Version": "2.0.0",
+      "Version": "2.0.1",
       "Device": "88:13:BF:01:DF:B8",
       "URL": "https://sjana-ts.github.io/AE_WIFI_IOCARD/STM32F1xxRTU_AE_IO_CARD.ino.nodemcu-32s.bin"
     }
