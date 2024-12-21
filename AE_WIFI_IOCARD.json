@@ -3,7 +3,7 @@
     {
       "Board": "NODEMCU_32S",
       "Version": "2.0.5",
-      "Device": "80:64:6F:23:4B:84",
+      "Device": "80:64:6F:23:4B:94",
       "URL": "https://sjana-ts.github.io/AE_WIFI_IOCARD/AE_IO_CARD_ESP32_IFD_1_1.ino.esp32da.bin"
     }
   ]
